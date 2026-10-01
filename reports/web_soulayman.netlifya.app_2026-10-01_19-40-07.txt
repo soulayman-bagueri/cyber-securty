@@ -1,0 +1,7 @@
+CYBERFORGE WEB SECURITY REPORT
+======================================================================
+Target: https://soulayman.netlifya.app
+Hostname: soulayman.netlifya.app
+Started: 2026-10-01T19:40:07.162420
+
+Request failed: HTTPSConnectionPool(host='soulayman.netlifya.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='soulayman.netlifya.app', port=443): Failed to resolve 'soulayman.netlifya.app' ([Errno -2] Name or service not known)"))

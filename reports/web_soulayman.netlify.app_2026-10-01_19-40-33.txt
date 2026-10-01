@@ -1,0 +1,60 @@
+CYBERFORGE WEB SECURITY REPORT
+======================================================================
+Target: https://soulayman.netlify.app
+Hostname: soulayman.netlify.app
+Started: 2026-10-01T19:40:32.744051
+
+TARGET INFORMATION
+HTTP Status: 200
+Final URL: https://soulayman.netlify.app/
+Server: Netlify
+Content-Type: text/html; charset=UTF-8
+Content Size: 41652 bytes
+Encoding: UTF-8
+
+Accept-Ranges: bytes
+Age: 275
+Cache-Control: public,max-age=0,must-revalidate
+Cache-Status: "Netlify Edge"; hit; ttl=31535726
+Content-Encoding: br
+Content-Length: 5684
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 01 Oct 2026 17:40:33 GMT
+Etag: "abf3f20da71b96663798a138c7c613d9-ssl-df"
+Server: Netlify
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Nf-Request-Id: 01M3W8VETGTXZ6RDEYTXSJB656
+Redirects: none
+
+[MISSING] Content-Security-Policy
+[PRESENT] Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+[MISSING] X-Content-Type-Options
+[MISSING] X-Frame-Options
+[MISSING] Referrer-Policy
+[MISSING] Permissions-Policy
+[MISSING] Cross-Origin-Opener-Policy
+[MISSING] Cross-Origin-Resource-Policy
+[MISSING] Cross-Origin-Embedder-Policy
+No cookies detected.
+No Access-Control-Allow-Origin header detected.
+DNS: 2a05:d014:58f:6200::258
+DNS: 2a05:d014:58f:6200::259
+DNS: 35.157.26.135
+DNS: 63.176.8.218
+robots.txt: FOUND (73 bytes)
+  User-agent: *
+  Allow: /
+  Sitemap: https://soulyman.netlify.app/sitemap.xml
+security.txt: HTTP 404
+HTTPS: ENABLED
+
+SECURITY SUMMARY
+Security headers present: 1/9
+Security headers missing: 8/9
+Header coverage: 11%
+HTTPS: YES
+
+NOTE:
+This report performs passive HTTP/HTTPS checks.
+It does not attempt exploitation or intrusive testing.

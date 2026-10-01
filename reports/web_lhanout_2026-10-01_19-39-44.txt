@@ -1,0 +1,7 @@
+CYBERFORGE WEB SECURITY REPORT
+======================================================================
+Target: https://lhanout
+Hostname: lhanout
+Started: 2026-10-01T19:39:44.178487
+
+Request failed: HTTPSConnectionPool(host='lhanout', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='lhanout', port=443): Failed to resolve 'lhanout' ([Errno -2] Name or service not known)"))
